@@ -6,3 +6,9 @@ Most of it isn't made by myself
 
 HandTracking_main uses HandTrackingModule and uses the coordinates of some points to write them into XML in my apache folder, thats used to controll robotic hand on ESP32. Earlier I used it to controll the Windows Sounf Volume (still in the code, but as comment).
 could be improved at some points...
+
+You need those libraries:
+
+Mediapipe
+OpenCV
+
